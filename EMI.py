@@ -5,10 +5,10 @@ loan_types = {'a': 'Education loan', 'b': 'Home loan',
               'c': 'Personal loan', 'd': 'Car loan'}
 bank_rate = {'Axis Bank': {'Education loan': 12.5, 'Home loan': 9, 'Personal loan': 10.2, 'Car loan': 7.5},
              'Bank of Baroda': {'Education loan': 11, 'Home loan': 12, 'Personal loan': 10, 'Car loan': 7.9},
-             'Bank of India': {'Education loan': 10.6, 'Home loan': 10, 'Personal loan': 11, 'Car loan': 8.56},
+             'Bank of India': {'Education loan': 5.6, 'Home loan': 10, 'Personal loan': 11, 'Car loan': 7.56},
              'Punjab National Bank': {'Education loan': 9.8, 'Home loan': 8.2, 'Personal loan': 11, 'Car loan': 7.32},
              'State Bank of India': {'Education loan': 11.7, 'Home loan': 6.4, 'Personal loan': 15, 'Car loan': 9},
-             'HDFC Bank': {'Education loan': 9.2, 'Home loan': 11.6, 'Personal loan': 10.8, 'Car loan': 8.3}}
+             'HDFC Bank': {'Education loan': 9.2, 'Home loan': 11.6, 'Personal loan': 9.8, 'Car loan': 8.3}}
 
 
 def select_bank():
